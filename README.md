@@ -25,9 +25,8 @@ while continuously improving my skills.
 
 ---
 
-<h3 align="center">🌿 Philosophy</h3>
 
 <p align="center"><i>
 “Small efforts, repeated with patience — <br>
 shape something extraordinary over time.”
-</i>i></p>
+</i></p>
