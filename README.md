@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gowtham</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"># 💫 About Me:
+🎓 B.Tech student in Artificial Intelligence & Data Science<br>💻 Passionate AI & Full-Stack Web Developer<br>🚀 Building intelligent systems and scalable web applications<br><br><br><br>I enjoy working on Machine Learning, Full-Stack Development, and Data Analytics projects that solve meaningful problems. I love turning ideas into scalable applications and continuously improving my technical skills.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
