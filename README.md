@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm <b>Gowtham</b></h1>
 
+<p align="center">
+  <img src="profile.jpeg" width="200" style="border-radius:50%;" />
+</p>
 
 <p align="center">
 🎓 B.Tech student in Artificial Intelligence & Data Science <br>
