@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <b>Gowtham</b></h1>
+<h1 align="center">Hi 👋, I'm <b>GOWTHAM</b></h1>
 
 <p align="center">
 🎓 B.Tech student in Artificial Intelligence & Data Science <br>
