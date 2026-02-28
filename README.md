@@ -28,5 +28,5 @@ while continuously improving my skills.
 
 <p align="center"><i>
 “Small efforts, repeated with patience — <br>
-shape something extraordinary over time.”
+ shape something extraordinary over time.”
 </i></p>
